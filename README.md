@@ -26,7 +26,7 @@ A UK-based online retailer generates over 500,000 transactions across 38 countri
 
 ## 🔴 Live Dashboard
 
-[View Interactive Dashboard](your-looker-studio-link-here)
+[View Interactive Dashboard](https://lookerstudio.google.com/s/kGX3Lz_8mkM)
 
 ---
 
@@ -214,7 +214,7 @@ aws-retail-analytics-pipeline/
 ## 👤 Author
 
 **Aniket Amar Nerali**
-MSc Business Analytics and Decision Sciences — University of Leeds
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Thesineo)
